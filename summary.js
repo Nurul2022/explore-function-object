@@ -34,5 +34,5 @@ addThreeNumbers(87, 41, 56);
 
 // object
 var microphone = {
-    brand: 'blue yeti', price: 120, color: black,
+    brand: 'blue yeti', price: 120, color: black, 
 }
