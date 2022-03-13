@@ -17,7 +17,7 @@ else if(color == 'yellow'){
 }
 else {
     console.log('color is black');
-}
+}  // rs color is yellow 
 
 switch(color){
     case 'blue':
@@ -38,4 +38,4 @@ switch(color){
     case 'black':
         console.log('color is black');
         break;    
-}
+}  // rs color is yellow 
