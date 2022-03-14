@@ -1,3 +1,4 @@
+/*
 var skyColor = 'white';
 
 var phones = ['iphone', 'xiaomi', 'samsung', 'lg', 'htc'];
@@ -21,18 +22,18 @@ while (num <= 10) {
 
 for (var i = 0; i < phones.length; i++) {
 
-}
+}  */
 
 // function 
 function addThreeNumbers(number1, number2, number3) {
-    var total = number1 + number2 + number3;
-    return total;
+    var result = number1 + number2 + number3;
+    return result;
 
 }
+var total = addThreeNumbers(87, 41, 56);
+console.log(total) // rs 184
 
-addThreeNumbers(87, 41, 56);
-
-// object
-var microphone = {
-    brand: 'blue yeti', price: 120, color: black, 
-}
+// // object
+// var microphone = {
+//     brand: 'blue yeti', price: 120, color: black,
+// }
