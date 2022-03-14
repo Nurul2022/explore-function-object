@@ -22,7 +22,7 @@ while (num <= 10) {
 
 for (var i = 0; i < phones.length; i++) {
 
-}  */
+}  
 
 // function 
 function addThreeNumbers(number1, number2, number3) {
@@ -36,4 +36,12 @@ console.log(total) // rs 184
 // // object
 // var microphone = {
 //     brand: 'blue yeti', price: 120, color: black,
-// }
+// } */
+
+// Shortcut addition
+function addNumber(number1, number2) {
+    return result = number1 + number2;
+   }
+   var total = addNumber(5, 4);
+   console.log(total) // rs 9
+   
